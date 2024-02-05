@@ -1,0 +1,11 @@
+/home/telmo/rust_to_mysql/target/debug/deps/libtime_macros_impl-31373b05f125ff67.so: /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/lib.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/date.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/ext.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/offset.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/mod.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/home/telmo/rust_to_mysql/target/debug/deps/time_macros_impl-31373b05f125ff67.d: /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/lib.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/date.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/ext.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/offset.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/mod.rs /home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/lib.rs:
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/date.rs:
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/ext.rs:
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/offset.rs:
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time.rs:
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/mod.rs:
+/home/telmo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/date.rs:
